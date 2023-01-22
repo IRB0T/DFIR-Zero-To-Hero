@@ -3,4 +3,4 @@ To help folks who are just starting their journey in DFIR field I am starting on
 
 | # | Case    | Description    |  Link    |
 | :---:   | :---: | :---: |
-| 1 | Case-0  | Remote Access Tool Investigation - Part-1 |https://github.com/raj1997/DFIR-Zero-To-Hero/tree/main/Case-0%20%40%20Remote%20Access%20Tool%20Investigation%20-%20Part-1|
+| 1 | Case-0  | Remote Access Tool Investigation - Part-1 |https://github.com/raj1997/DFIR-Zero-To-Hero/tree/main/Case-0 @ Remote Access Tool Investigation - Part-1|
